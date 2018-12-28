@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Framework on PHP</h1>
-                <h2>Congratulations, we are polyglot now</h2>
+                <h2>Congratulations, we are polyglot now! And in 2018</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
